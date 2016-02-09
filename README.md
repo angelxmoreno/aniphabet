@@ -2,6 +2,7 @@
 Animals by Alphabet
 
 ## A
+- Alligator
 
 ## B
 
